@@ -1,5 +1,13 @@
 p {
  font-size: 16px;
- color: indianred;
+ color: rgb(241, 220, 220);
  line-height: 200%;   
+}
+
+h1 {
+    color: rgb(241, 220, 220)
+}
+
+body {
+    background-image: url("https://cdn.hipwallpaper.com/i/1/12/tABWC6.jpg");
 }
